@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  auditor-de-contrato.api:
+    image: ${DOCKER_REGISTRY-}auditordecontratoapi
+    build:
+      context: .
+      dockerfile: auditor-de-contrato.api/Dockerfile

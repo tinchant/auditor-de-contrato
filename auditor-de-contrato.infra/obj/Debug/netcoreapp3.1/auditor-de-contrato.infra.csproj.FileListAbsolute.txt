@@ -1,0 +1,12 @@
+C:\Users\afidelis\Source\Repos\auditor-de-contrato\auditor-de-contrato.infra\bin\Debug\netcoreapp3.1\auditor-de-contrato.infra.deps.json
+C:\Users\afidelis\Source\Repos\auditor-de-contrato\auditor-de-contrato.infra\bin\Debug\netcoreapp3.1\auditor-de-contrato.infra.dll
+C:\Users\afidelis\Source\Repos\auditor-de-contrato\auditor-de-contrato.infra\bin\Debug\netcoreapp3.1\auditor-de-contrato.infra.pdb
+C:\Users\afidelis\Source\Repos\auditor-de-contrato\auditor-de-contrato.infra\bin\Debug\netcoreapp3.1\auditor-de-contrato.domain.dll
+C:\Users\afidelis\Source\Repos\auditor-de-contrato\auditor-de-contrato.infra\bin\Debug\netcoreapp3.1\auditor-de-contrato.domain.pdb
+C:\Users\afidelis\Source\Repos\auditor-de-contrato\auditor-de-contrato.infra\obj\Debug\netcoreapp3.1\auditor-de-contrato.infra.csprojAssemblyReference.cache
+C:\Users\afidelis\Source\Repos\auditor-de-contrato\auditor-de-contrato.infra\obj\Debug\netcoreapp3.1\auditor-de-contrato.infra.AssemblyInfoInputs.cache
+C:\Users\afidelis\Source\Repos\auditor-de-contrato\auditor-de-contrato.infra\obj\Debug\netcoreapp3.1\auditor-de-contrato.infra.AssemblyInfo.cs
+C:\Users\afidelis\Source\Repos\auditor-de-contrato\auditor-de-contrato.infra\obj\Debug\netcoreapp3.1\auditor-de-contrato.infra.csproj.CopyComplete
+C:\Users\afidelis\Source\Repos\auditor-de-contrato\auditor-de-contrato.infra\obj\Debug\netcoreapp3.1\auditor-de-contrato.infra.dll
+C:\Users\afidelis\Source\Repos\auditor-de-contrato\auditor-de-contrato.infra\obj\Debug\netcoreapp3.1\auditor-de-contrato.infra.pdb
+C:\Users\afidelis\Source\Repos\auditor-de-contrato\auditor-de-contrato.infra\obj\Debug\netcoreapp3.1\auditor-de-contrato.infra.csproj.CoreCompileInputs.cache

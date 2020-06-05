@@ -1,0 +1,16 @@
+services:
+  auditor-de-contrato.api:
+    build:
+      context: C:\Users\afidelis\Source\Repos\auditor-de-contrato
+      dockerfile: auditor-de-contrato.api/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: auditordecontratoapi
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - C:\Users\afidelis\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\afidelis\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

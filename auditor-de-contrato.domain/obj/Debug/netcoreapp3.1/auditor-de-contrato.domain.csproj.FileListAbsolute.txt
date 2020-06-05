@@ -1,0 +1,9 @@
+C:\Users\afidelis\Source\Repos\auditor-de-contrato\auditor-de-contrato.domain\bin\Debug\netcoreapp3.1\auditor-de-contrato.domain.deps.json
+C:\Users\afidelis\Source\Repos\auditor-de-contrato\auditor-de-contrato.domain\bin\Debug\netcoreapp3.1\auditor-de-contrato.domain.dll
+C:\Users\afidelis\Source\Repos\auditor-de-contrato\auditor-de-contrato.domain\bin\Debug\netcoreapp3.1\auditor-de-contrato.domain.pdb
+C:\Users\afidelis\Source\Repos\auditor-de-contrato\auditor-de-contrato.domain\obj\Debug\netcoreapp3.1\auditor-de-contrato.domain.csprojAssemblyReference.cache
+C:\Users\afidelis\Source\Repos\auditor-de-contrato\auditor-de-contrato.domain\obj\Debug\netcoreapp3.1\auditor-de-contrato.domain.csproj.CoreCompileInputs.cache
+C:\Users\afidelis\Source\Repos\auditor-de-contrato\auditor-de-contrato.domain\obj\Debug\netcoreapp3.1\auditor-de-contrato.domain.AssemblyInfoInputs.cache
+C:\Users\afidelis\Source\Repos\auditor-de-contrato\auditor-de-contrato.domain\obj\Debug\netcoreapp3.1\auditor-de-contrato.domain.AssemblyInfo.cs
+C:\Users\afidelis\Source\Repos\auditor-de-contrato\auditor-de-contrato.domain\obj\Debug\netcoreapp3.1\auditor-de-contrato.domain.dll
+C:\Users\afidelis\Source\Repos\auditor-de-contrato\auditor-de-contrato.domain\obj\Debug\netcoreapp3.1\auditor-de-contrato.domain.pdb
